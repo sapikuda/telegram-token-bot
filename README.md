@@ -14,7 +14,7 @@ There are several dependencies required for this application:
     $ sudo apt install python3 pip3
     ```
 
-- stoken
+- [stoken](https://github.com/cernekee/stoken)
 
     ```bash
     $ sudo apt install stoken
