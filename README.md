@@ -42,6 +42,12 @@ $ stoken import --file=tokenxml.sdtid
 
 ## Usage
 
+Make it executable:
+
+```bash
+chmod +x token_bot.py token_generator.py
+```
+
 You can use the bot by execute the `token_bot.py`:
 
 ```bash
