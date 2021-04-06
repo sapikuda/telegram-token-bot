@@ -34,6 +34,12 @@ You can install from source with:
 git clone https://github.com/sapikuda/telegram-token-bot.git
 ```
 
+Then import "sdtid" XML file `stoken` without password
+
+```bash
+$ stoken import --file=tokenxml.sdtid
+```
+
 ## Usage
 
 You can use the bot by execute the `token_bot.py`:
